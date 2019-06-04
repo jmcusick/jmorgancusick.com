@@ -2847,7 +2847,7 @@ h6 {
 /* Testimonials Area css
 ============================================================================================ */
 .testimonials_area {
-  background: #f9f9ff; }
+  background: #ffff; }
   .testimonials_area.testi_two {
     background: #fff; }
     .testimonials_area.testi_two .testi_inner {
@@ -2880,7 +2880,7 @@ h6 {
 .testi_item {
   border: 1px solid #eeeeee;
   border-radius: 10px;
-  background: #fff;
+  background: #f9f9ff;
   padding: 40px 28px; }
   .testi_item p {
     font-style: italic; }
