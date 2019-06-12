@@ -2882,14 +2882,12 @@ h6 {
   border-radius: 10px;
   background: #f9f9ff;
   padding: 40px 28px; }
-  .testi_item p {
-    font-style: italic; }
+  .testi_item p { }
   .testi_item h4 {
     color: #222222;
     font-size: 18px;
     text-transform: uppercase; }
-  .testi_item a {
-    color: #ffc000; }
+  .testi_item a { }
 
 /* End Testimonials Area css
 ============================================================================================ */
