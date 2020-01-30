@@ -1,4 +1,4 @@
-# thecusick.com
+# jmorgancusick.com
 Personal website for John Cusick
 
 Initially constructed using [this guide](https://docs.docker.com/compose/django/)
